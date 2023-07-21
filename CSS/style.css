@@ -100,7 +100,7 @@
     font-weight: bold;
     margin-top: 2rem;
   }
- @media (max-width: 350px){
+ @media (max-width: 650px){
     :root{
       --card-height: 40vh;
     --card-width: calc(var(--card-height) / 1.5);
